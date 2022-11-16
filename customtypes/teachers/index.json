@@ -1,0 +1,25 @@
+{
+  "id": "teachers",
+  "label": "Teachers",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "name": {
+        "type": "Text",
+        "config": {
+          "label": "name",
+          "placeholder": ""
+        }
+      },
+      "photo": {
+        "type": "Image",
+        "config": {
+          "label": "photo",
+          "constraint": {},
+          "thumbnails": []
+        }
+      }
+    }
+  }
+}

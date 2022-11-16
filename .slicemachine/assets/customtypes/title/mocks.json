@@ -1,0 +1,60 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "title",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "title": "north",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Irure non ut do cillum nulla minim eiusmod labore velit eiusmod enim labore sunt.",
+        "spans": []
+      }
+    ],
+    "images": [
+      {
+        "card": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5"
+        },
+        "banner": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a"
+        }
+      }
+    ],
+    "teachers": [
+      {
+        "teacher": {
+          "id": "mock_document_id",
+          "link_type": "Document",
+          "type": "teachers",
+          "tags": [],
+          "lang": "en-us",
+          "slug": null,
+          "first_publication_date": "1970-01-01T00:00:01+0000",
+          "last_publication_date": "1970-01-01T01:00:00+0000"
+        }
+      }
+    ],
+    "slices": []
+  }
+}
